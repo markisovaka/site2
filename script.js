@@ -13,4 +13,4 @@ btn1.onclick = () => {
 }
 
 
-tg.expand()
+tg.expand();
